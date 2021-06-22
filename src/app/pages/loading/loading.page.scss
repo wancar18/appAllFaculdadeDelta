@@ -1,0 +1,15 @@
+.img-loading{
+    display: flex;
+    margin-top: 150px;
+    width: 100%;
+}
+
+.loading-center{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+ion-spinner {
+    transform: scale(1.5);
+}
